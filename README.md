@@ -19,17 +19,17 @@ If you would like to add the NZ public holidays to your calendar, please choose 
 - **New Zealand Holidays - All**  
 Contains all national holidays and regional anniversaries
 ```
-https://raw.githubusercontent.com/sohnemann/New-Zealand-Public-Holidays/main/2022-2032-public-holidays-nz-all.ics
+https://raw.githubusercontent.com/JustinBRedstripe/New-Zealand-Public-Holidays/main/2022-2032-public-holidays-nz-all.ics
 ```
 
 - **New Zealand Holidays - National**  
 Only contains national holidays (e.g. Waitangi Day, Christmas)
 ```
-https://raw.githubusercontent.com/sohnemann/New-Zealand-Public-Holidays/main/2022-2032-public-holidays-nz-national.ics
+https://raw.githubusercontent.com/JustinBRedstripe/New-Zealand-Public-Holidays/main/2022-2032-public-holidays-nz-national.ics
 ```
 
 - **New Zealand Holidays - Regional**  
 Only contains regional holidays (e.g. Canterbury Anniversary)
 ```
-https://raw.githubusercontent.com/sohnemann/New-Zealand-Public-Holidays/main/2022-2032-public-holidays-nz-regional.ics
+https://raw.githubusercontent.com/JustinBRedstripe/New-Zealand-Public-Holidays/main/2022-2032-public-holidays-nz-regional.ics
 ```
